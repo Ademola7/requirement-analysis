@@ -71,7 +71,8 @@ The interface should be easy to use across different devices.
 
 Both types of requirements are equally important in ensuring that the software is not only functional but also reliable, efficient, and user-friendly.
 
-![Use Case Diagram](assets/alx-booking-uc.png)
+## Use Case Diagram
+![Use Case Diagram](./alx-booking-uc.png)
 
 What are Use Case Diagrams?
 Use Case Diagrams show how users (actors) interact with a system to achieve specific goals. They help teams visualize the main functions of a system and understand what actions users can perform.
