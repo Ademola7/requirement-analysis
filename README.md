@@ -92,6 +92,7 @@ Maintainability: The codebase should follow best practices for modularity and do
 Functional and non-functional requirements work together to ensure that the system not only meets user needs but also performs efficiently and reliably under real-world conditions.
 
 Use Case Diagrams
+![Booking System Use Case Diagram](./alx-booking-uc.png)
 🧠 What are Use Case Diagrams?
 Use Case Diagrams are visual representations that illustrate how different users (actors) interact with a system to achieve specific goals (use cases).
 They form an essential part of Requirement Analysis by helping teams understand system functionality from a user’s perspective.
